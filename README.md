@@ -1,5 +1,5 @@
 # WeatherApp
-Project developed during the IOS App Development course from Angela Yu. The main goal of this project is inform to people how is the weather in the moment. The MVC Design Pattern was used. The app also changes the background and colors when the theme changes.
+Project developed during the IOS App Development course from Angela Yu. The main goal of this project is inform to people how is the weather in the moment. The MVC Design Pattern was used. The app also changes the background and colors when the theme changes. <b> You have to request your own api key to use the service. </b>
 
 <video src="https://github.com/LucasMeloSena/WeatherApp/assets/93053816/d2aba1ff-2b17-4e9c-bbf7-7dcc752e4686" width="100%" controls></video>
 
